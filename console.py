@@ -1,7 +1,7 @@
 from colorama import Fore, init
 import os
 
-class Console:
+class console:
     def print_logo(self, username):
         print(f'''{Fore.CYAN}
         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
