@@ -1,5 +1,5 @@
 import requests, json
-from console import Console
+from console import console
 
 excluded_servers = []
 
