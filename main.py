@@ -1,6 +1,8 @@
 import requests, json
 from console import console
 
+console = console()
+
 excluded_servers = []
 
 def getheaders(token=None):
