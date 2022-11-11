@@ -17,8 +17,6 @@ class console:
         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
         
         Logged in as: {username}
-        thanks for using my tool ily 
-        heinick#8358
         {Fore.RESET}
         ''')
     def log(self, content):
